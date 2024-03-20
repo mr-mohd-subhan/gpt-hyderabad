@@ -1,0 +1,30 @@
+.courses {
+    margin-top: 15vh;
+}
+
+.courses p {
+    padding: 20px;
+    text-align: justify;
+}
+
+.branches {
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.branches .card img {
+    overflow-y: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    .branches {
+        padding: 10px;
+    }
+
+    .card {
+        margin: 20px;
+    }
+}

@@ -1,0 +1,14 @@
+.pharmacy {
+    margin-top: 10vh;
+    padding: 30px;
+    text-align: justify;
+}
+
+.pharmacy h1 {
+    margin-bottom: 20px;
+
+}
+
+.pharmacy li {
+    margin: 7px 0;
+}

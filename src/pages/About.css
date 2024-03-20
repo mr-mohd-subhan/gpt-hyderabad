@@ -1,0 +1,28 @@
+.about {
+    margin-top: 10vh;
+    padding-left: 10px;
+}
+
+.about p {
+    margin: 30px;
+    text-align: justify;
+}
+
+.about-sec1 {
+    background-color: #2F3D7E;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+
+.about h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about h1 {
+    text-align: center;
+}

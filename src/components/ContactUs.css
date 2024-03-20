@@ -1,0 +1,51 @@
+.contactus {
+    height: 20vh;
+    width: 100vw;
+    border: 2px solid black;
+    display: flex;
+    padding: 50px;
+    background-color: #2F3D7E;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 60px;
+    overflow-y: hidden;
+}
+
+.contact-logo {
+    height: 30px;
+    border-radius: 50%;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .contactus {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .item h3 {
+        font-size: 12px;
+    }
+
+    .contact-logo {
+        height: 15px;
+    }
+
+    .item {
+        margin: 3px;
+    }
+}

@@ -1,0 +1,37 @@
+.branch {
+    margin-top: 10vh;
+}
+
+.branch h1 {
+    font-size: 30px;
+}
+
+.file-link {
+    display: block;
+    height: 90px;
+    width: 60vw;
+    border-radius: 40px;
+    color: #FAEAEB;
+    text-align: center;
+    background-color: #2F3D7E;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: 30px;
+    overflow-y: hidden;
+}
+
+.head-resources {
+    text-align: center;
+    margin: 50px;
+}
+
+.branch-para {
+    margin: 30px;
+    text-align: justify;
+}
+
+@media screen and (max-width: 800px) {
+    .file-link {
+        font-size: 20px;
+    }
+}

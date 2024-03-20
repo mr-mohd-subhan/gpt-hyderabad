@@ -1,0 +1,16 @@
+.events {
+    margin-top: 10vh;
+    padding: 30px;
+}
+
+.events h1 {
+    margin: 20px 0;
+}
+
+.events li {
+    margin: 7px 0;
+}
+
+.events hr {
+    margin: 20px 0;
+}

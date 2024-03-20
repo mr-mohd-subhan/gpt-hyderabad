@@ -1,0 +1,20 @@
+.places {
+    margin-top: 10vh;
+}
+
+.places h1 {
+    text-align: center;
+}
+
+.places p {
+    margin: 30px;
+    text-align: justify;
+}
+
+.map-places {
+    scale: .75;
+}
+
+.map-about {
+    scale: 0.75;
+}

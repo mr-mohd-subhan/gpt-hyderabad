@@ -1,0 +1,29 @@
+.clgimg {
+    margin-top: 10vh;
+    object-fit: fill;
+    width: 100vw;
+    height: 70vh;
+    overflow: hidden;
+}
+
+.home {
+    overflow-y: hidden;
+}
+
+.heading {
+    text-align: center;
+    color: #2F3D7E;
+    font-size: 40px;
+    text-shadow: 3px 3px 4px rgba(47, 61, 126, 0.5);
+    margin: 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .clgimg {
+        height: 30vh;
+    }
+
+    .heading {
+        font-size: 30px;
+    }
+}
