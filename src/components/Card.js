@@ -4,13 +4,13 @@ import 'aos/dist/aos.css';
 import './Card.css';
 import { Link } from "react-router-dom";
 
-const Card = ({ imgurl, title, route, style }) => {
+const Card = ({ imgurl, title, route, animStyle }) => {
     useEffect(() => {
         AOS.init({ duration: 1000 });
     }, []);
     return (
-        <div className="card" data-aos={style}>
-            <Link to={route}><img src={imgurl} className="card-image" /></Link>
+        <div className="card" data-aos={animStyle}>
+            <Link to={route}><img src={imgurl} className="card-image" alt="" /></Link>
             <Link to={route}><h3 className="card-title">{title}</h3></Link>
         </div>
     );

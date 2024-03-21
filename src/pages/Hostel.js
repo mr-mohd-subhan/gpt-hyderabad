@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hostel.css';
 import hostel1 from '../assets/hostel1.jpg';
-import hostel2 from '../assets/hostel2.jpg';
+import Map from '../components/Map';
 
 const Hostel = () => {
     return (
@@ -9,10 +9,12 @@ const Hostel = () => {
             <h1>Admission in College Hostel</h1>
             <p>To secure admission into a government hostel as a non-local student, thorough research and preparation are essential. Begin by familiarizing yourself with the admission criteria and procedures outlined by the hostel authorities. Typically, non-local students may need to provide proof of enrollment in an educational institution within the area, along with documents verifying their non-local status, such as a domicile certificate. It's crucial to meet all application deadlines and provide accurate information during the submission process. Additionally, demonstrating a genuine need for hostel accommodation and adhering to any additional requirements set forth by the hostel administration can bolster your application. Maintaining open communication with hostel staff and seeking guidance from academic advisors or student support services can also enhance your chances of securing a spot in the government hostel as a non-local student.</p>
 
-            <div className='hostel-img'>
-                <img src={hostel1} />
-                <img src={hostel2} />
-            </div>
+            <Map
+                mapLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.1850729391654!2d78.45096272516531!3d17.402903733486916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb976aa90e9cad%3A0x6c4c5896b233c890!2sGovernment%20Polytechnic%20Hostel!5e0!3m2!1sen!2sin!4v1711032001068!5m2!1sen!2sin"
+
+                mapImg={hostel1}
+                className="map-places"
+            />
 
             <h2>Selection Criteria for 2nd and 3rd Year Students</h2>
             <p>To get a seat in the hostel for the 2nd and 3rd year, students must give their best performance in their previous year. The selection criteria for 2nd and 3rd-year students into the hostel are done in two ways:</p>

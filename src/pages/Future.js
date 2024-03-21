@@ -10,12 +10,12 @@ const Future = () => {
                 <h1>1. ECET Examination:</h1>
                 <p>ECET stands for Engineering Common Entrance Test. It is an entrance exam conducted for diploma holders by various state governments in India, including Telangana. ECET allows diploma holders to seek lateral entry into engineering programs (usually in the second year) offered by various colleges and universities. By qualifying in ECET, diploma holders can pursue a bachelor's degree in engineering in disciplines such as Civil Engineering, Mechanical Engineering, Electrical Engineering, Electronics and Communication Engineering, Computer Science Engineering, etc. This provides an opportunity for further academic advancement and specialization.</p>
 
-                <h3>TS ECET 2024 Exam Pattern:</h3>
+                <h3>TS ECET Exam Pattern:</h3>
 
                 <ul>
                     <li><strong>Examination Mode:</strong> The exam will be conducted as a computer-based test (CBT). Candidates will take the test on computers at various designated examination centers.</li>
 
-                    <li><strong>Duration:</strong> The duration of the TS ECET 2024 exam will be 3 hours. Candidates will have to complete the entire test within this time frame.</li>
+                    <li><strong>Duration:</strong> The duration of the TS ECET   exam will be 3 hours. Candidates will have to complete the entire test within this time frame.</li>
 
                     <li><strong>Medium of Exam:</strong> The medium of the exam will be English. All instructions and questions will be provided in English.</li>
 
@@ -30,14 +30,14 @@ const Future = () => {
 
                     <li><strong>Type of Questions:</strong> The exam will contain multiple-choice questions (MCQs). Candidates will have to select the correct answer from the given options.</li>
 
-                    <li><strong>Total Number of Questions:</strong> There will be a total of 200 questions in the TS ECET 2024 exam. Each section will have a specific number of questions.</li>
+                    <li><strong>Total Number of Questions:</strong> There will be a total of 200 questions in the TS ECET  exam. Each section will have a specific number of questions.</li>
 
-                    <li><strong>Total Marks:</strong> The TS ECET 2024 exam will be of 200 marks in total. Each correct answer will carry 1 mark.</li>
+                    <li><strong>Total Marks:</strong> The TS ECET   exam will be of 200 marks in total. Each correct answer will carry 1 mark.</li>
 
                     <li><strong>Marking Scheme:</strong> Candidates will be awarded 1 mark for every correct answer. There will be no negative marking for incorrect answers. This means that candidates will not lose any marks for wrong answers.</li>
                 </ul>
 
-                <p>Overall, the TS ECET 2024 exam pattern is designed to assess the candidates' knowledge and understanding of various subjects such as Mathematics, Physics, Chemistry, and Engineering. Candidates are advised to thoroughly review the exam pattern and syllabus before starting their preparation to ensure they are well-prepared for the examination.</p>
+                <p>Overall, the TS ECET   exam pattern is designed to assess the candidates' knowledge and understanding of various subjects such as Mathematics, Physics, Chemistry, and Engineering. Candidates are advised to thoroughly review the exam pattern and syllabus before starting their preparation to ensure they are well-prepared for the examination.</p>
             </div>
 
             <div className='jobs'>

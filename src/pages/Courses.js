@@ -25,25 +25,25 @@ const Courses = () => {
                     imgurl={cse}
                     title="Computer Science and Engineering"
                     route={'/courses/cse'}
-                    style="slide-right"
+                    animStyle="slide-right"
                 />
                 <Card
                     imgurl={civil}
                     title="Civil Engineering"
                     route={'/courses/ce'}
-                    style="fade"
+                    animStyle="fade"
                 />
                 <Card
                     imgurl={eee}
                     title="Electrical and Electronics Engineering"
                     route={'/courses/eee'}
-                    style="slide-left"
+                    animStyle="slide-left"
                 />
                 <Card
                     imgurl={ece}
                     title="Electronics and Communication Engineering"
                     route={'/courses/ece'}
-                    style="fade-up"
+                    animStyle="fade-up"
                 />
                 <Card
                     imgurl={automobile}
@@ -54,13 +54,13 @@ const Courses = () => {
                     imgurl={mechanical}
                     title="Mechanical Engineering"
                     route={'/courses/me'}
-                    style="fade-up-right"
+                    animStyle="fade-up-right"
                 />
                 <Card
                     imgurl={pharmacy}
                     title="Pharmacy"
                     route={'/courses/ph'}
-                    style="fade-down"
+                    animStyle="fade-down"
                 />
             </div>
         </div>

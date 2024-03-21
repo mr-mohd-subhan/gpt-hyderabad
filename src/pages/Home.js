@@ -28,37 +28,37 @@ function Home() {
                     imgurl={hostel}
                     title="College Hostel"
                     route={"/hostel"}
-                    style="fade-right"
+                    animStyle="fade-right"
                 />
                 <Card
                     imgurl={places}
                     title="Landmarks"
                     route={"/places"}
-                    style="zoom-in"
+                    animStyle="zoom-in"
                 />
                 <Card
                     imgurl={events}
                     title="Events"
                     route={"/events"}
-                    style="fade-left"
+                    animStyle="fade-left"
                 />
                 <Card
                     imgurl={download}
                     title="Download resources"
                     route={"/download"}
-                    style="flip-right"
+                    animStyle="flip-right"
                 />
                 <Card
                     imgurl={exams}
                     title="Exam pattern"
                     route={"/exams"}
-                    style="zoom-out"
+                    animStyle="zoom-out"
                 />
                 <Card
                     imgurl={future}
                     title="Future opportunities"
                     route={"/future"}
-                    style="flip-left"
+                    animStyle="flip-left"
                 />
             </div>
             <ContactUs />

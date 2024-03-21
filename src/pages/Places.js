@@ -6,7 +6,9 @@ import mosque from '../assets/mosque.png';
 import hotel from '../assets/hotel.png';
 import temple from '../assets/temple.png'
 import church from '../assets/church.jpeg'
-import falcon from '../assets/falcon.jpeg'
+import falcon from '../assets/falcon.jpeg';
+import mathh from '../assets/mathh.jpg';
+import ground from '../assets/ground.jpg';
 
 
 const Places = () => {
@@ -59,6 +61,20 @@ const Places = () => {
                 mapLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.555616309621!2d78.48272927438826!3d17.385103602872487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99d268bdb28d%3A0xddfd25753d921a31!2sFalcon%20Book%20House%20%26%20Stationery!5e0!3m2!1sen!2sin!4v1710734856934!5m2!1sen!2sin"
 
                 mapImg={falcon}
+                className="map-places"
+            />
+            <h1>6. Ramakrishna math</h1>
+            <Map
+                mapLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.0024931570815!2d78.4815366!3d17.411668000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99e40fb25841%3A0xce516eeeea1bffc7!2sRamakrishna%20Math!5e0!3m2!1sen!2sin!4v1711031455957!5m2!1sen!2sin"
+
+                mapImg={mathh}
+                className="map-places"
+            />
+            <h1>7. Hockey ground</h1>
+            <Map
+                mapLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.2014788721344!2d78.45130379999999!3d17.402116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb97155c222e01%3A0xe9b8a567cd2f27ef!2sSports%20Coaching%20Foundation!5e0!3m2!1sen!2sin!4v1711031599603!5m2!1sen!2sin"
+
+                mapImg={ground}
                 className="map-places"
             />
         </div>

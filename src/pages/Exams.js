@@ -116,7 +116,7 @@ const Exams = () => {
             <h1>Credits and CGPA Information</h1>
 
             <div className="section">
-                <h2>VII. Credits</h2>
+                <h2>Credits</h2>
                 <ul>
                     <li>For theory courses: 3 Credits</li>
                     <li>For Laboratory courses: 1.5 Credits</li>
