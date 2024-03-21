@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gpt-hyderabad/static/css/main.633c4076.css",
-    "main.js": "/gpt-hyderabad/static/js/main.50f80828.js",
+    "main.js": "/gpt-hyderabad/static/js/main.342a067a.js",
     "static/media/C21_CE_IV_SEM.pdf": "/gpt-hyderabad/static/media/C21_CE_IV_SEM.b57575b5a451bd44587f.pdf",
     "static/media/C21_AU_II_SEM.pdf": "/gpt-hyderabad/static/media/C21_AU_II_SEM.fe2f135a9a71179987d2.pdf",
     "static/media/C21_AU_V_SEM.pdf": "/gpt-hyderabad/static/media/C21_AU_V_SEM.5989feb365b07bccd9fd.pdf",
@@ -27,7 +27,6 @@
     "static/media/C21_EE_V_SEM.pdf": "/gpt-hyderabad/static/media/C21_EE_V_SEM.957b9b83cb98d465612f.pdf",
     "static/media/hostel1.jpg": "/gpt-hyderabad/static/media/hostel1.53d4c88a83b06fd84f9a.jpg",
     "static/media/C21_EE_III_SEM.pdf": "/gpt-hyderabad/static/media/C21_EE_III_SEM.6511d2cea35df846ceac.pdf",
-    "static/media/hostel2.jpg": "/gpt-hyderabad/static/media/hostel2.0c8cb01d1ec414be3e5b.jpg",
     "static/media/C21_AU_IV_SEM.pdf": "/gpt-hyderabad/static/media/C21_AU_IV_SEM.bd06cefa60954766070c.pdf",
     "static/media/C21_CS_IV_SEM.pdf": "/gpt-hyderabad/static/media/C21_CS_IV_SEM.7a66973127fd92fc82ca.pdf",
     "static/media/C21_EC_V_SEM.pdf": "/gpt-hyderabad/static/media/C21_EC_V_SEM.64602bc081be42d169ef.pdf",
@@ -53,9 +52,11 @@
     "static/media/civil.jpg": "/gpt-hyderabad/static/media/civil.6931745835aeb890cd6e.jpg",
     "static/media/hotel.png": "/gpt-hyderabad/static/media/hotel.4cf218cc7799cb5f2223.png",
     "static/media/caro3.jpg": "/gpt-hyderabad/static/media/caro3.89ce23d719ae0e107794.jpg",
+    "static/media/mathh.jpg": "/gpt-hyderabad/static/media/mathh.8666bd42d63c76177ae6.jpg",
     "static/media/automobile.jpg": "/gpt-hyderabad/static/media/automobile.d0777fc27e17b660f61f.jpg",
     "static/media/mosque.png": "/gpt-hyderabad/static/media/mosque.4cbcdbf03f3dd56d21a4.png",
     "static/media/places.jpg": "/gpt-hyderabad/static/media/places.899bcc3e5d775422f7ee.jpg",
+    "static/media/ground.jpg": "/gpt-hyderabad/static/media/ground.e0d0cd8301f2dd935991.jpg",
     "static/media/temple.png": "/gpt-hyderabad/static/media/temple.92e427fda3a90e0e3fe4.png",
     "static/media/exams.jpg": "/gpt-hyderabad/static/media/exams.69b3dc6b5504840bd216.jpg",
     "static/media/cse.jpg": "/gpt-hyderabad/static/media/cse.78a5dc9844c956eeb68a.jpg",
@@ -65,10 +66,10 @@
     "static/media/download.webp": "/gpt-hyderabad/static/media/download.856c0cb34759a667650a.webp",
     "index.html": "/gpt-hyderabad/index.html",
     "main.633c4076.css.map": "/gpt-hyderabad/static/css/main.633c4076.css.map",
-    "main.50f80828.js.map": "/gpt-hyderabad/static/js/main.50f80828.js.map"
+    "main.342a067a.js.map": "/gpt-hyderabad/static/js/main.342a067a.js.map"
   },
   "entrypoints": [
     "static/css/main.633c4076.css",
-    "static/js/main.50f80828.js"
+    "static/js/main.342a067a.js"
   ]
 }
