@@ -8,7 +8,6 @@ import events from '../assets/events.png'
 import exams from '../assets/exams.jpg';
 import future from '../assets/future.jpg';
 import download from '../assets/download.webp'
-import ContactUs from '../components/ContactUs';
 import Links from '../components/Links'
 
 import './Home.css';
@@ -61,7 +60,6 @@ function Home() {
                     animStyle="flip-left"
                 />
             </div>
-            <ContactUs />
         </div>
     )
 }

@@ -1,11 +1,16 @@
-// About.js
-
 import React from 'react';
 import caro3 from '../assets/caro3.jpg'
 import './About.css';
 import Map from '../components/Map'
+import Personality from '../components/Personality';
+import Principal from '../assets/Principal.jpg';
+import Chairman from '../assets/chairman.jpg';
+
 
 const About = () => {
+    const infoPrincipal = "Smt. Dr. N. Rajeshwari Devi Principal joined in the Department of Technical Education in the year 1996 as Lecturer  and completed her PhD in Pharmaceutical Sciences from Kakatiya University, Warangal in the year 2015 and she had 25+ years of teaching experience, 4 years of research experience and also worked as Deputy Secretary in SBTET TELANGANA STATE for three years, facilitated in preparation of curriculum and conduct of state wide exams like POLYCET, LPCET, Diploma Board Exams, and presently working as Principal at this institution.\nShe assumed as Principal on 11th Dec 2020 and she was awarded with District Level Best Principal for contribution for the overall Develpoment of Govt. Polytechnic Hyderabad and under her dynamic leadership institution five programmes (DAE,DCE,DCSE,DEEE, DME) got accredited by NBA.";
+
+    const infoChairman = "Burra Venkatesham Goud (born 10 April 1968) is an officer of the Indian Administrative Service (IAS) and the author of Selfie of Success (2019). He is from Jangam, Telangana, India.\nB. Venkatesham assumed office as Education department Principal Secretary and also full additional charge as Collegiate Education Commissioner on 18 December 2023. He is the Chairman of TS SBTET.\nVenkatesham completed his BA from the Dr. B.R. Ambedkar College, Hyderabad, in 1989 and LLB from Osmania University, Hyderabad, in 1992. He is an alumnus of Andhra Pradesh Residential School, Sarvail, Telangana.";
     return (
         <div className="about">
             <p>
@@ -28,7 +33,23 @@ const About = () => {
 
                 The institution also prioritizes student welfare, offering facilities such as well-maintained toilets, a sick room, and sports and physical education facilities to foster holistic development. With its own building constructed in 1956, Government Polytechnic continues to uphold its commitment to providing quality technical education while nurturing a conducive learning environment for its students.
 
-                Furthermore, Government Polytechnic, Hyderabad, is not just an educational institution; it's a testament to the enduring legacy of technical education in India. With a rich history, a commitment to excellence, and a vision for the future, Government Polytechnic, Hyderabad, remains a cornerstone of technical education in the region.</p>
+                Furthermore, Government Polytechnic, Hyderabad, is not just an educational institution; it's a testament to the enduring legacy of technical education in India. With a rich history, a commitment to excellence, and a vision for the future, Government Polytechnic, Hyderabad, remains a cornerstone of technical education in the region.
+            </p>
+
+            <h1>Principal of College</h1>
+            <Personality
+                imageurl={Principal}
+                pname="Dr. N. Rajeshwari Devi"
+                text={infoPrincipal}
+                animStyle="fade-right"
+            />
+            <h1>Chairman of SBTET</h1>
+            <Personality
+                imageurl={Chairman}
+                pname="Burra Venkatesham Goud"
+                text={infoChairman}
+                animStyle="fade-left"
+            />
         </div>
     )
 };

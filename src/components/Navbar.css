@@ -15,6 +15,7 @@
     position: fixed;
     overflow-y: hidden;
     z-index: 30;
+    border-bottom: 2px solid whitesmoke;
 }
 
 .navbar ul {

@@ -1,6 +1,7 @@
 .about {
     margin-top: 10vh;
     padding-left: 10px;
+    overflow-y: hidden;
 }
 
 .about p {

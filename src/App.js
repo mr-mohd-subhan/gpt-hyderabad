@@ -18,11 +18,13 @@ import Hostel from './pages/Hostel'
 import Events from './pages/Events'
 import Pharmacy from './pages/Pharmacy';
 import ScrollToTop from "./components/ScrollToTop";
+import ContactUs from "./components/ContactUs";
+import './App.css';
 
 function App() {
   return (
     <Router>
-      <div>
+      <div className="app">
         <ScrollToTop />
         <Navbar />
         <Routes>
@@ -43,6 +45,7 @@ function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/hostel" element={<Hostel />} />
         </Routes>
+        <ContactUs />
       </div>
     </Router>
   );

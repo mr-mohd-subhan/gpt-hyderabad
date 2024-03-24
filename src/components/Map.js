@@ -10,7 +10,7 @@ const Map = ({ mapLink, mapImg, className }) => {
     return (
 
         <div className={`map ${className}`} data-aos="fade">
-            <iframe src={mapLink}></iframe>
+            <iframe src={mapLink} title='map'></iframe>
             <img alt="College" src={mapImg} />
         </div>
     )
