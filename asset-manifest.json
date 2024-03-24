@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gpt-hyderabad/static/css/main.046ee6e6.css",
+    "main.css": "/gpt-hyderabad/static/css/main.3445a35f.css",
     "main.js": "/gpt-hyderabad/static/js/main.7750bf0e.js",
     "static/media/C21_CE_IV_SEM.pdf": "/gpt-hyderabad/static/media/C21_CE_IV_SEM.b57575b5a451bd44587f.pdf",
     "static/media/C21_AU_II_SEM.pdf": "/gpt-hyderabad/static/media/C21_AU_II_SEM.fe2f135a9a71179987d2.pdf",
@@ -67,11 +67,11 @@
     "static/media/church.jpeg": "/gpt-hyderabad/static/media/church.d48e0990c7a7f72bdcd7.jpeg",
     "static/media/download.webp": "/gpt-hyderabad/static/media/download.856c0cb34759a667650a.webp",
     "index.html": "/gpt-hyderabad/index.html",
-    "main.046ee6e6.css.map": "/gpt-hyderabad/static/css/main.046ee6e6.css.map",
+    "main.3445a35f.css.map": "/gpt-hyderabad/static/css/main.3445a35f.css.map",
     "main.7750bf0e.js.map": "/gpt-hyderabad/static/js/main.7750bf0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.046ee6e6.css",
+    "static/css/main.3445a35f.css",
     "static/js/main.7750bf0e.js"
   ]
 }
